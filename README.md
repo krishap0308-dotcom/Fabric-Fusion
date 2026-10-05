@@ -4,6 +4,19 @@
 
 ---
 
+## 🎨 UI Design & Preview
+
+### 🏠 Home & Collection Showcase
+![Home Page UI](ui-design/home_categories_ui.jpg)
+
+### ℹ️ About Us & Brand Mission Page
+![About Us UI](ui-design/about_us_ui.jpg)
+
+### 🔑 User Registration Portal
+![User Registration UI](ui-design/register_form_ui.jpg)
+
+---
+
 ## ✨ Features
 
 ### 🛍️ User Storefront
@@ -49,6 +62,10 @@ fabric-fusion/
 │   ├── config.php             # Customer database config
 │   ├── login_form.php         # User login UI
 │   └── register_form.php      # User registration UI
+├── ui-design/                 # UI Design Mockups & Screenshots
+│   ├── home_categories_ui.jpg # Home & Categories UI
+│   ├── about_us_ui.jpg        # About Us Page UI
+│   └── register_form_ui.jpg   # Registration Form UI
 ├── index.php                  # Main landing page
 ├── product.php                # Complete product catalog
 ├── men.php                    # Men's collection
